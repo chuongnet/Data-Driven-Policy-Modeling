@@ -1,5 +1,5 @@
 # Data-Driven-Policy-Modeling
-The Policy analysis and Modeling with the data (unstructured text) driven techniques, Deep Learning and Natural Language Processing (NLP)
+The Data Driven Policy Modeling is the AI project, which analyses automatically a whole document (unstructured text) to extract important information such as meaning, relevant sentences, related sections to the meaning. The project uses Deep Learning and Natural Language Processing tools as the main technical processing and transferring all analysed information into the CCD diagram as the result of Policy Modeling.   
 ## 1. Supervisors
 - Prof. Dr. Maria A. Wimmer - wimmer@uni-koblenz.de
 (Professorin für E-Government Institut für Wirtschafts- und Verwaltungsinformatik Universität Koblenz-Landau http://www.uni-koblenz.de/agvinf)
@@ -22,7 +22,7 @@ The actor is a keyword or word phrase that has the strongest relation to the top
 In lexical sentence analysis, identifying the subject, verb and object in the sentence, and the other noun, or noun phrase is the key process in political analysis. The sentence’s verb or verb phrase is known as the relationship and the main point to classify an action behavior of the sentence.
 ## 4. Support tools
 - Gensim, Word similarity
-- Spacy, word lexical identification
+- Spacy, word lexicon classification
 - Sklearn, machine learning techniques
 - Scipy, stats computation
 - XML tree, xml file constructor
